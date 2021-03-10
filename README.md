@@ -1,1 +1,1 @@
-Next train to nowhere : Mars station.
+Next train to nowhere in Mars station.
