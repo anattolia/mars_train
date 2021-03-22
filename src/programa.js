@@ -21,6 +21,7 @@ btnTrainWest.onmousedown = () => {
   i++;
 
   console.log('west' + trains);
+  console.log('traaaaaaaain');
 };
 
 btnTrainEast.onmousedown = () => {
