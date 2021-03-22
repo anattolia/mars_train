@@ -20,7 +20,7 @@ btnTrainWest.onmousedown = () => {
   trains[num] = timeStmp;
   i++;
 
-  console.log(trains);
+  console.log('west' + trains);
 };
 
 btnTrainEast.onmousedown = () => {
@@ -28,7 +28,7 @@ btnTrainEast.onmousedown = () => {
   num = 'e_' + j.toString();
   trains[num] = timeStmp;
   j++;
-  console.log(trains);
+  console.log('east' + trains);
 };
 
 function printTrains(list) {
